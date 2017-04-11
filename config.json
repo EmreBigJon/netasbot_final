@@ -1,0 +1,9 @@
+{
+    "jenkins_method": "GET",
+    "jenkins_path": "buildByToken/buildWithParameters",
+    "jenkins_token": "token here",
+    "jenkins_url": "url here",
+	"slack_name": "name here",
+    "slack_channel": "general",
+	"slack_token":"slack token here"
+}

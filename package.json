@@ -1,0 +1,29 @@
+{
+    "name": "netasbot",
+  "version": "1.0.0",
+  "description": "intern",
+  "main": "index.js",
+  "scripts": {
+    "test": "hello"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/EmreBigJon/netasbot"
+  },
+  "keywords": [
+    "slack",
+    "bot",
+    "weather",
+	"jenkins",
+	"build"
+  ],
+  "author": "Emre Can YARAR",
+  "license": "MIT",
+  "dependencies": {
+    "@slack/client": "^3.9.0",
+    "slackbotapi": "1.3.9",
+    "slackweatherbot": "1.0.1",
+	"winston": "^2.3.0"
+  }
+
+}
